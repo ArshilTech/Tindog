@@ -5,7 +5,9 @@ It’s built with **HTML**, **CSS**, and **Bootstrap 5**, showcasing clean desig
 
 ---
 
+## 🔗 Check it out: https://arshiltech.github.io/Tindog
 
+---
 
 ## 💡 Project Overview
 
